@@ -19,13 +19,25 @@ Kaido is a Python desktop AI assistant built with **PySide6** and Google's **Gem
 
 ## 📸 Screenshots
 
-### 🏴‍☠️ Kaido Welcome Screen
+<table>
+  <tr>
+    <td align="center"><b>🏴‍☠️ Welcome Screen</b></td>
+    <td align="center"><b>💬 Conversation</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/s1.png" alt="Kaido Welcome Screen" width="400">
+    </td>
+    <td align="center">
+      <img src="screenshots/s4.png" alt="Kaido Conversation" width="400">
+    </td>
+  </tr>
+  
+</table>
 
-![Kaido Welcome Screen](screenshots/s1.png)
 
-### 💬 Kaido Conversation
 
-![Kaido Conversation](screenshots/s4.png)
+
 
 ---
 
