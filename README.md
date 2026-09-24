@@ -46,11 +46,9 @@ Before installing Kaido, make sure you have:
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Kunnal23/Kaido-AI
 cd Kaido
 ```
-
-Replace `YOUR_GITHUB_REPOSITORY_URL` with the URL of your Kaido GitHub repository.
 
 ---
 
